@@ -12,9 +12,9 @@ const TreeForm = () => {
 
     try {
       await axios.post("http://localhost:8080/processNumbers", numArray);
-      setMessage("Tree saved successfully!");
+      setMessage("Your Tree Was Created!");
     } catch (err) {
-      setMessage("Error processing numbers.");
+      setMessage("Error processing numbers :(");
     }
   };
 
