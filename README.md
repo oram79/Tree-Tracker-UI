@@ -6,7 +6,7 @@ This is the frontend React application for the **Binary Search Tree (BST) Visual
 
 ## 🚀 Live Demo
 
-[Click here to view the live frontend (if deployed)](https://your-frontend-link.com)
+[Click here to view the live frontend ](https://your-frontend-link.com)
 
 ---
 
