@@ -1,5 +1,6 @@
 import React from "react";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import './App.css';
 import Home from "./components/Home";
 import TreeForm from "./components/TreeForm";
 import TreeList from "./components/TreeList";

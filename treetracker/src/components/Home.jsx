@@ -1,15 +1,15 @@
-import React from "react";
-import { useNavigate } from "react-router-dom";
-import styles from "../styles/Home.css";
+import React from 'react';
+import { useNavigate } from 'react-router-dom';
 
 const LandingPage = () => {
   const navigate = useNavigate();
 
   return (
-    <div className={styles.container}>
-      <h1>Welcome to Tree Tracker 🌳</h1>
+    <div className="container text-center">
+      <h1>Node Tree Tracker</h1>
       <p>Visualize and track your binary search trees!</p>
-      <div className={styles.buttons}>
+
+      <div>
         <button onClick={() => navigate("/form")}>Create New Tree</button>
         <button onClick={() => navigate("/previous")}>View Previous Trees</button>
       </div>
@@ -18,3 +18,4 @@ const LandingPage = () => {
 };
 
 export default LandingPage;
+
