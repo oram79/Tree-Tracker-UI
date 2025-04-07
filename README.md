@@ -33,6 +33,6 @@ This is the frontend React application for the **Binary Search Tree (BST) Visual
 ### Backend:
 - **Spring Boot (Java)**
 - **PostgreSQL** database
-- **Deployed separately** – [Backend GitHub Repo](https://github.com/oram79/Airport-Server-Backend.git)
+- **Deployed separately** – [Backend GitHub Repo](https://github.com/oram79/Tree-Tracker-API.git)
 
 ---
