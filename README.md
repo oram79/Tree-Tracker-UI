@@ -1,4 +1,4 @@
-# 🌳 Binary Search Tree Visualizer – Frontend
+# Binary Search Tree Visualizer – Frontend
 
 This is the frontend React application for the **Binary Search Tree (BST) Visualizer** – a Semester 4 Final Sprint project for the Data Structures and Algorithms course. This app allows users to input numbers, generate and visualize a Binary Search Tree, and view previously saved trees stored in a backend database.
 
